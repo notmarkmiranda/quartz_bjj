@@ -1,0 +1,2 @@
+## Summary
+De La Riva is an open guard position named after Ricardo De La Riva. The top player hooks their leg around the outside of the bottom player's lead leg, controllering their ankle with one hand and gripping their sleevel, collar or belt with the other hand. 
