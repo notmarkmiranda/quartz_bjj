@@ -37,7 +37,11 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        return a.slugSegments[a.slugSegments.length - 1].localeCompare(b.slugSegments[b.slugSegments.length - 1]);
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -61,7 +65,11 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        return a.slugSegments[a.slugSegments.length - 1].localeCompare(b.slugSegments[b.slugSegments.length - 1]);
+      },
+    }),
   ],
   right: [],
 }
