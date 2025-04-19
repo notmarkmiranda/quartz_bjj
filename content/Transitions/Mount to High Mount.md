@@ -1,8 +1,5 @@
 Transitioning from [[Mount]] to [[High Mount]]
 # Summary
-Starting from mount, initiate a cross face to at least have the option to attack chokes, if they are being stubborn about protecting for chokes, this is a good transition. It is also generally better when mounting a larger opponent to not get bridged off of them. An important piece is using your forearms above their head in order to prevent them from following you as you move up their torso. You should also consider putting your feet on their hips to use it as leverage while holding them in place. Ideal positioning is to have their elbow above parallel to their shoulders. Gather their elbows as you make progress.
-
-# Summary
 The transition from mount to high mount can be used both offensively and defensively. It’s especially effective when the bottom player is focused on defending chokes, or when controlling a larger, more explosive opponent who may attempt to bridge.
 
 # Objectives
