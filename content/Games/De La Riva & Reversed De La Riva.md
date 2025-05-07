@@ -1,7 +1,7 @@
 [Attributed from Here](https://merryt.github.io/bjj-mindmap/Flipped-Class-Workouts/De-La-Riva--and--Reversed-De-La-Riva) so I don't lose them in case they change
 # Game 1:
 ## Setup
-Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of De La Riva or Reverse De La Riva.
+Top player is standing and places one leg near the butt of bottom., Bottom player gets into their choice of [[De La Riva]] or [[Reverse De La Riva]].
 
 ## Top
 Try to disengage (this is normally done through freeing leg)

@@ -8,7 +8,7 @@ Important dates:
 - `20 SEP 2022` - First Fundamentals Class #whitebelt
 - `25 JUN 2024` - Blue Belt Promotion #bluebelt 
 
-Time since starting BJJ: 2 years, 7 months, 6 days
+Time since starting BJJ: 2 years, 7 months, 17 days
 ```dataviewjs
 let start = new Date("2022-09-20");
 let today = new Date();
