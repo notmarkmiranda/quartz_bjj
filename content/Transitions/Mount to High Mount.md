@@ -1,3 +1,8 @@
+---
+tags:
+  - transitions
+---
+
 Transitioning from [[Mount]] to [[High Mount]]
 # Summary
 The transition from mount to high mount can be used both offensively and defensively. It’s especially effective when the bottom player is focused on defending chokes, or when controlling a larger, more explosive opponent who may attempt to bridge.

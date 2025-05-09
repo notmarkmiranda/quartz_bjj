@@ -1,6 +1,8 @@
 ---
 aliases:
   - Cross Choke
+tags:
+  - submissions
 ---
 
 ## From mount:

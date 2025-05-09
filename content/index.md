@@ -7,10 +7,12 @@ Inspired by [TCM BJJ](https://merryt.github.io/bjj-mindmap/) to take better BJJ 
 Important dates:
 - `20 SEP 2022` - First Fundamentals Class #whitebelt
 - `25 JUN 2024` - Blue Belt Promotion #bluebelt 
-
-White || Green Belt Time: 1 year, 9 months, 5 days
-Blue Belt Time:  0 years, 10 months, 13 days
-**Total BJJTime: 2 years, 7 months, 18 days**
+---
+- **White || Green Belt Time:** 1 year, 9 months, 5 days
+- **Blue Belt Time:**  0 years, 10 months, 13 days
+- **Total BJJTime:** 2 years, 7 months, 18 days
+---
+Quartz doesn't evaluate dataview queries, so i'm storing the equations here:
 ```dataviewjs
 let start = new Date("2022-09-20");
 let today = new Date();

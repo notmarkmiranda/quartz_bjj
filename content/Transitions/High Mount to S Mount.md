@@ -1,3 +1,8 @@
+---
+tags:
+  - transitions
+---
+
 Transitioning from [[High Mount]] to [[S Mount]]
 
 # Summary

@@ -1,3 +1,8 @@
+---
+tags:
+  - positions
+---
+
 ## Summary
 High mount is a variation of the [[Mount]] position where the top player shifts their weight higher up on the bottom player's torso, often with knees near the armpits. This makes it harder for the bottom player to bridge and escape, and opens up strong submission opportunities for the top player.
 ## Goals

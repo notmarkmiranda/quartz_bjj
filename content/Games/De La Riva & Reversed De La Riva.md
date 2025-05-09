@@ -1,3 +1,8 @@
+---
+tags:
+  - games
+---
+
 [Attributed from Here](https://merryt.github.io/bjj-mindmap/Flipped-Class-Workouts/De-La-Riva--and--Reversed-De-La-Riva) so I don't lose them in case they change
 # Game 1:
 ## Setup

@@ -1,3 +1,8 @@
+---
+tags:
+  - positions
+---
+
 ## Summary
 The top player is sitting on the torso of the bottom player, typically with knees on the mat and hips low. It's a dominant position for the top player
 ## Goals
