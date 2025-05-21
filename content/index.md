@@ -9,8 +9,8 @@ Important dates:
 - `25 JUN 2024` - Blue Belt Promotion #bluebelt 
 ---
 - **White || Green Belt Time:** 1 year, 9 months, 5 days
-- **Blue Belt Time:**  0 years, 10 months, 13 days
-- **Total BJJTime:** 2 years, 7 months, 18 days
+- **Blue Belt Time:**  0 years, 10 months, 27 days
+- **Total BJJTime:** 2 years, 8 months, 2 days
 ---
 Quartz doesn't evaluate dataview queries, so i'm storing the equations here:
 ```dataviewjs
